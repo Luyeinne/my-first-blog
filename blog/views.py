@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
 # Create your views here.
+# Ivan es gay jajaja
