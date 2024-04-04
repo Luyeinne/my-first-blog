@@ -5,3 +5,5 @@ from django.shortcuts import render
 
 # cada dia es maaaas gay
 # mas y maasaaaas
+
+# me molesta que sea tan gay
